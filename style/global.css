@@ -38,3 +38,7 @@
   --violet: #C3B2E7;
   --pink: #F682A5;
 }
+
+body{
+  overflow: hidden;
+}
