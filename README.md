@@ -1,14 +1,4 @@
 # Formulário de Matrícula
-
-<<<<<<< HEAD
-=======
-### Criação de uma página exemplo com um formulário de mátricula para cadastro em uma escola!
->>>>>>> 86da8605e2fc75da5481dad47d47a81b64645edb
-___
-
-Uma página simples e funcional criada para simular o cadastro de alunos em uma escola. O projeto tem como objetivo treinar e explorar o uso de campos de input e formulários em HTML e CSS, com foco em boas práticas de desenvolvimento e acessibilidade.
-
-<<<<<<< HEAD
 ---
 
 ## Sobre o Projeto
@@ -49,6 +39,3 @@ Veja abaixo uma prévia do layout criado no Figma e implementado no código:
 ---
 
 Feito com :heart: por Tiago Marques.
-=======
-<img src="capaProjeto.png" alt="">
->>>>>>> 86da8605e2fc75da5481dad47d47a81b64645edb
